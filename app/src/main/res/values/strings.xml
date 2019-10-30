@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">individualApp</string>
+    <string name="player_name">NAME</string>
+    <string name="player_firstNameHint">First Name:</string>
+    <string name="player_lastNameHint">Last Name:</string>
+    <string name="player_num">Number:</string>
 </resources>
